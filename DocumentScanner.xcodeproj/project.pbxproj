@@ -38,6 +38,7 @@
 		3CE275582845159A0022535B /* FileUtil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileUtil.swift; sourceTree = "<group>"; };
 		3CE2755A284515EC0022535B /* Errors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Errors.swift; sourceTree = "<group>"; };
 		F7FBF40228818D97C757585B /* .releaserc.yaml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = .releaserc.yaml; sourceTree = "<group>"; };
+		F7FBF70F3F55DD3882060208 /* CODEOWNERS */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CODEOWNERS; sourceTree = "<group>"; };
 		F7FBF71FBB18BF11AC828CAB /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
 		F7FBFD564CF9BC8C025265CD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F7FBFF22C5E5A44B027F3D9C /* build.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; path = build.yml; sourceTree = "<group>"; };
@@ -111,6 +112,7 @@
 			isa = PBXGroup;
 			children = (
 				F7FBFD282038629892503959 /* workflows */,
+				F7FBF70F3F55DD3882060208 /* CODEOWNERS */,
 			);
 			path = .github;
 			sourceTree = "<group>";
